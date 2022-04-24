@@ -1,17 +1,17 @@
 ### Includes:
 
 <details>
-<summary>19 New Cards:
+<summary>6 New Cards:
 </summary>
 
 |Name|Power|Health|Cost|Sigils|Tribes|
 |:-|:-|:-|:-|:-|:-|
+|Ace opossum|2|4| <img align="center" src="https://tinyurl.com/2p8wpx7f">| Trinket Bearer|None|
 |crimson|5|5| <img align="center" src="https://tinyurl.com/yrt8hwxr">| Frozen Away|None|
 |EGG|0|1| <img align="center" src="https://tinyurl.com/2p8ev3yj">| Bellist||
-|Geck Pupa|0|1| <img align="center" src="https://tinyurl.com/2p8ev3yj">| Fledgling|Reptile|
 |Kidd ghost|1|3| <img align="center" src="https://tinyurl.com/42jumw7s">| Bifurcated Strike,  Many Lives|None|
 |Niki The sylph|3|2| <img align="center" src="https://tinyurl.com/58ksh7sk">| Airborne,  Trinket Bearer|Bird|
-|soul|4|1| <img align="center" src="https://tinyurl.com/42jumw7s">| Unkillable|None|
+|True crusader|3|3| <img align="center" src="https://tinyurl.com/4dbzjwyh">| Double Strike,  Armored|None|
 </details>
 
 <details>
@@ -30,3 +30,4 @@
 |Kevin Saxby|3|3| <img align="center" src="https://tinyurl.com/yrt8hwxr">| Trifurcated Strike||
 |Zombified doll|0|1| <img align="center" src="https://tinyurl.com/276rt5yx">| Unkillable,  Bone King|None|
 </details>
+
