@@ -17,6 +17,7 @@
 |MaterialEnergy|0|3| <img align="center" src="https://tinyurl.com/yrt8hwxr">| Trifurcated Strike,  Bifurcated Strike,  Frozen Away||
 |Niki The sylph|3|2| <img align="center" src="https://tinyurl.com/58ksh7sk">| Airborne,  Trinket Bearer|Bird|
 |Pharoh's Pets|0|1| <img align="center" src="https://tinyurl.com/2p8wpx7f">| Many Lives,  Worthy Sacrifice||
+  Sing is back :>
 </details>
 
 <details>
