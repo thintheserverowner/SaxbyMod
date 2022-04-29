@@ -21,7 +21,6 @@
 |Niki The sylph|3|2| <img align="center" src="https://tinyurl.com/58ksh7sk">| Airborne,  Trinket Bearer|Bird|
 |Pharoh's Pets|0|1| <img align="center" src="https://tinyurl.com/2p8wpx7f">| Many Lives,  Worthy Sacrifice||
 |Serpent|2|3| <img align="center" src="https://tinyurl.com/mstdm6ew">| Launcher||
-|Singularity|4|4| <img align="center" src="https://tinyurl.com/2p9d2vrh">| Trifurcated Strike,  Pierce,  Haste|Squirrel, Bird, Canine, Hooved, Reptile, Insect|
 </details>
 
 <details>
