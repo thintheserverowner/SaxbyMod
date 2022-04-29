@@ -1,19 +1,22 @@
 ### Includes:
 
 <details>
-<summary>13 New Cards:
+<summary>16 New Cards:
 </summary>
 
 |Name|Power|Health|Cost|Sigils|Tribes|
 |:-|:-|:-|:-|:-|:-|
 |Ace opossum|2|4| <img align="center" src="https://tinyurl.com/2p8wpx7f">| Trinket Bearer|None|
 |Ash grey|2|2| <img align="center" src="https://tinyurl.com/2p8ev3yj">| Guardian|Canine|
+|Blood Bather|3|2| <img align="center" src="https://tinyurl.com/42jumw7s"> <img align="center" src="https://tinyurl.com/276rt5yx">| Waterborne,  Dying,  Consumer||
 |Clueless|2|4| <img align="center" src="https://tinyurl.com/mv6tnc5e">| Random Strike,  Random Strafe||
 |crimson|5|5| <img align="center" src="https://tinyurl.com/yrt8hwxr">| Frozen Away|None|
 |Doggo Hank|1|5| <img align="center" src="https://tinyurl.com/42jumw7s">| Guardian|Canine|
 |EGG|0|1| <img align="center" src="https://tinyurl.com/2p8ev3yj">| Bellist||
+|Goat Lord|2|2| <img align="center" src="https://tinyurl.com/mstdm6ew">| Many Lives||
 |Jewelstine|2|2| <img align="center" src="https://tinyurl.com/42jumw7s">| Annoying,  Airborne|Bird|
 |Kidd ghost|1|3| <img align="center" src="https://tinyurl.com/42jumw7s">| Bifurcated Strike,  Many Lives|None|
+|Lebirb|3|1| <img align="center" src="https://tinyurl.com/42jumw7s">| Airborne,  Rampager|Bird|
 |MaterialEnergy|0|3| <img align="center" src="https://tinyurl.com/yrt8hwxr">| Trifurcated Strike,  Bifurcated Strike,  Frozen Away||
 |Niki The sylph|3|2| <img align="center" src="https://tinyurl.com/58ksh7sk">| Airborne,  Trinket Bearer|Bird|
 |Pharoh's Pets|0|1| <img align="center" src="https://tinyurl.com/2p8wpx7f">| Many Lives,  Worthy Sacrifice||
