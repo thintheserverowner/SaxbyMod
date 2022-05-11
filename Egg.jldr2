@@ -1,0 +1,21 @@
+{
+	"name": "saxby_egg",
+	"modPrefix": "saxby",
+	"displayedName": "EGG",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["CreateBells"],
+	"metaCategories": [
+		"ChoiceNode",
+		"TraderOffer",
+		"GBCPack",
+		"GBCPlayable"
+	],
+	   	"pixelTexture": "Egg_41x28.png",
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "Why is there an egg here?",
+	"texture": "Egg.png",
+	"emissionTexture": "Egg_emision.png"
+}

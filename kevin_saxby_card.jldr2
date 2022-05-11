@@ -1,0 +1,19 @@
+{
+	"name": "saxby_Kevin_Saxby",
+	"modPrefix": "saxby",
+	"displayedName": "Kevin Saxby",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"abilities": ["TriStrike"],
+	"metaCategories": [
+		"Rare",
+		"GBCPack",
+		"GBCPlayable"
+	],
+	   	"pixelTexture": "kevin_saxby_41x28.png",
+	"description": "The stunning Kevin. He strives to be the best streamer out there.",
+	"appearanceBehaviour": [ "RareCardBackground" ],
+	"texture": "kevin_saxby.png",
+	"emissionTexture": "kevin_saxby_emmision.png"
+}

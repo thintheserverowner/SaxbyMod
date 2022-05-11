@@ -1,0 +1,24 @@
+{
+  "name": "Likho",
+  "modPrefix": "saxby",
+  "displayedName": "Likho",
+  "description": "The restless Likho. It clings to the newest played card and torments the beast to the best of its ability, raising its attack.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Link_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bonesCost": 4,
+  "abilities": [
+    "BuffNeighbours",
+    "MoveBeside"
+  ],
+  "texture": "Link.png",
+  "emissionTexture": "Link_e.png"
+}

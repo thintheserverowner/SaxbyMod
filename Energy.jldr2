@@ -1,0 +1,23 @@
+{
+  "name": "MaterialEnergy",
+  "modPrefix": "saxby",
+  "displayedName": "MaterialEnergy",
+  "description": "The everlasting Material. The power of the universe in the palm of your hand.",
+  "metaCategories": [
+  "TraderOffer",
+	"GBCPack",
+	"GBCPlayable"
+],
+   	"pixelTexture": "Energy_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 3,
+  "abilities": [
+    "IceCube"
+  ],
+  "iceCubeName": "saxby_Singularity",
+  "texture": "Energy.png",
+  "emissionTexture": "Energy_e.png"
+}

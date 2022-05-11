@@ -1,0 +1,24 @@
+{
+  "name": "PharohsPets",
+  "modPrefix": "saxby",
+  "displayedName": "Pharoh's Pets",
+  "description": "Some old pets... did one of grimoras cards get in here?",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Pets_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bonesCost": 6,
+  "abilities": [
+    "Sacrificial",
+    "TripleBlood"
+  ],
+  "texture": "Pets.png",
+  "emissionTexture": "Pets_e.png"
+}

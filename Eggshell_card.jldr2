@@ -1,0 +1,11 @@
+{
+	"name": "DausBell",
+	"displayedName": "Eggshell",
+	"baseAttack": 0,
+	"baseHealth": 1,
+	"texture": "Eggshell.png",
+	"metaCategories": [
+		"GBCPlayable"
+	],
+	   	"pixelTexture": "Eggshell_41x28.png"
+}

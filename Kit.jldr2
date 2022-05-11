@@ -1,0 +1,27 @@
+{
+  "name": "Kitxipixi",
+  "modPrefix": "saxby",
+  "displayedName": "Kitxipixi",
+  "description": "An artist of ill fate, it is said one can see future actions with their lens, though none live to know for sure.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bonesCost": 6,
+  "abilities": [
+    "DrawCopyOnDeath",
+    "Tutor"
+  ],
+  "texture": "Kit.png",
+  "emissionTexture": "Kit_e.png",
+  "decals": [
+  "Kit_decal.png"
+],
+    	"pixelTexture": "Kit_41x28.png"
+}

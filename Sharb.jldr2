@@ -1,0 +1,25 @@
+{
+  "name": "Sharb",
+  "modPrefix": "saxby",
+  "displayedName": "Sharb",
+  "description": "The high-leveled Sharb. Found in a den, with a hero by his side.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "energyCost": 6,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "saxby_GMaxSharb",
+  "evolveTurns": 1,
+  "texture": "Sharb.png",
+  "emissionTexture": "Sharb_e.png",
+  	"pixelTexture": "Sharb_41x28.png"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "DoggoHank",
+  "modPrefix": "saxby",
+  "displayedName": "Doggo Hank",
+  "description": "The lovable doggo. Despite sharing the name of another adorable animal, this one is equally as cute.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Doggo_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "tribes": [
+    "Canine"
+  ],
+  "abilities": [
+    "GuardDog"
+  ],
+  "texture": "Doggo.png",
+  "emissionTexture": "Doggo_e.png"
+}

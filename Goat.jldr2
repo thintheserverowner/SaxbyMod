@@ -1,0 +1,26 @@
+{
+  "name": "GoatLord",
+  "modPrefix": "saxby",
+  "displayedName": "Goat Lord",
+  "description": "The Lord of Goats may be more powerful than the more docile of its kind. It is still to be killed. Perhaps, it was trying to stop this fate?",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Goat_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "traits": [
+    "Goat"
+  ],
+  "abilities": [
+    "Sacrificial"
+  ],
+  "texture": "Goat.png",
+  "emissionTexture": "Goat_e.png",
+  "extensionProperties": { "LifeMoneyCost": "4" }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "saxby_Crimson",
+  "modPrefix": "saxby",
+  "displayedName": "crimson",
+  "description": "A child with the ability to reform as their soul vessel upon death.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Crimson_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 5,
+  "bloodCost": 3,
+  "tribes": [ "None" ],
+  "abilities": [ "IceCube" ],
+  "traits": [ "KillsSurvivors" ],
+  "iceCubeName": "saxby_soul",
+  "texture": "Crimson.png",
+  "emissionTexture": "Crimson_e.png"
+}

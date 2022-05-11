@@ -1,0 +1,25 @@
+{
+  "name": "NoLuck",
+  "modPrefix": "saxby",
+  "displayedName": "Unlucky Carder",
+  "description": "The Oposite of the lucky carder He gets The worst luck possible",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Noluck_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "abilities": [
+    "bitty45.inscryption.sigils.Health Roll"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Noluck.png",
+  "emissionTexture": "Noluck_e.png"
+}

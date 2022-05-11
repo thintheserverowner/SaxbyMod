@@ -1,0 +1,23 @@
+{
+  "name": "saxby_Holy_crusader",
+  "modPrefix": "saxby",
+  "displayedName": "Holy crusader",
+  "description": "The fallen crusader, The true power of him. card will be revealed to be weak",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Holy_Crusade_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [ "None" ],
+  "abilities": [ "IceCube" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "iceCubeName": "saxby_True_crusader",
+  "texture": "Holy_Crusade.png",
+  "emissionTexture": "Holy_Crusade_e.png"
+}

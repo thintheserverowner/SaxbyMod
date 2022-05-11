@@ -1,0 +1,7 @@
+{
+	"Title": "Saxby expansion",
+	"Description": "The saxby fan cards have arrived",
+	"ModPrefix": "saxby",
+	"PackArt": "pack.png",
+    "ValidFor": ["LeshyPack"]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "saxby_Niki_The_sylph",
+  "modPrefix": "saxby",
+  "displayedName": "Niki The sylph",
+  "description": "A seemingly freindly fae creature, what gifts will they bring you?",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Niki_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 2,
+  "bonesCost": 7,
+  "tribes": [ "Bird" ],
+  "abilities": [ "Flying", "RandomConsumable" ],
+  "texture": "Niki.png",
+  "emissionTexture": "Niki_e.png",
+      	"pixelTexture": "Niki_41x28.png",
+        "decals": [
+        "Niki_decal.png"
+      ]
+}

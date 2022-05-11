@@ -1,0 +1,25 @@
+{
+  "name": "Pufferfish",
+  "modPrefix": "saxby",
+  "displayedName": "Pufferfish",
+  "description": "The poisonous pufferfish. Its idea of a good defense doubles as a killer offense.",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "abilities": [
+    "Deathtouch",
+    "Sharp",
+    "Submerge"
+  ],
+  "texture": "Puffer.png",
+  "emissionTexture": "Puffer_e.png",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Puffer_41x28.png"
+}

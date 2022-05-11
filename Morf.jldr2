@@ -1,0 +1,25 @@
+{
+  "name": "Morf",
+  "modPrefix": "saxby",
+  "displayedName": "Morf",
+  "description": "A... raccoon? This one is sweet. Their interest in everything comes at an expense.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Morf_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 3,
+  "abilities": [
+    "TriStrike",
+    "MoveBeside"
+  ],
+  "appearanceBehaviour": [],
+  "texture": "Morf.png",
+  "emissionTexture": "Morf_e.png"
+}

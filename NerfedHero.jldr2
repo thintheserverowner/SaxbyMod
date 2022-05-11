@@ -1,0 +1,20 @@
+{
+  "name": "Hero",
+  "modPrefix": "saxby",
+  "displayedName": "Hero",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "abilities": [
+    "org.memez4life.inscryption.customsigils.Bone prince 2",
+    "org.memez4life.inscryption.customsigils.Noble Sacrifice"
+  ],
+  "texture": "nerfedhero.png",
+  "emissionTexture": "nerfedhero_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "nerfedhero_41x28.png"
+}

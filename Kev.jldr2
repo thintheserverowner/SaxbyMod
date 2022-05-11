@@ -1,0 +1,22 @@
+{
+  "name": "Kevielcardulins",
+  "modPrefix": "saxby",
+  "displayedName": "Keviel cardulins",
+  "description": "Wait how did you manage to fuse Kevin, Daniel, And Luke? The mycologists take duplicates not seperate cards to merge!",
+  "metaCategories": [
+  "Rare",
+	"GBCPack",
+	"GBCPlayable"
+],
+   	"pixelTexture": "Lookie_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 6,
+  "baseHealth": 6,
+  "bloodCost": 4,
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Lookie.png",
+  "emissionTexture": "Lookie_e.png"
+}

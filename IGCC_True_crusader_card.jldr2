@@ -1,0 +1,20 @@
+{
+  "name": "saxby_True_crusader",
+  "modPrefix": "saxby",
+  "displayedName": "True crusader",
+  	"metaCategories": [
+    	"Rare",
+    	"GBCPack",
+    	"GBCPlayable"
+    ],
+       	"pixelTexture": "True_Crusade_41x28.png",
+  "extensionProperties": { "LifeMoneyCost": "10" },
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "tribes": [ "None" ],
+  "abilities": [ "DoubleStrike", "DeathShield" ],
+  "texture": "True_Crusade.png",
+  "emissionTexture": "True_Crusade_e.png"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Bitbuddy",
+  "modPrefix": "saxby",
+  "displayedName": "Bit buddy",
+  "description": "You wouldn't condemn it to death...would you?",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Buddy_41x28.png"
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "abilities": [
+    "Brittle",
+    "PermaDeath"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Buddy.png",
+  "emissionTexture": "Buddy_e.png"
+}

@@ -1,0 +1,24 @@
+{
+	"name": "saxby_Anime_Jesus",
+	"modPrefix": "saxby",
+	"displayedName": "Anime Jesus",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"tribes": [
+    "Bird"
+  ],
+	"abilities": ["Sacrificial","RandomAbility"],
+	"metaCategories": [
+		"Rare",
+		"GBCPack",
+		"GBCPlayable"
+	],
+	   	"pixelTexture": "Anime_Jesus_41x28.png",
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "Anime Jesus? Cringe.",
+	"appearanceBehaviour": [ "RareCardBackground" ],
+	"texture": "Anime_Jesus.png",
+	"emissionTexture": "Anime_Jesus_Emision.png"
+}

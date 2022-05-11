@@ -1,0 +1,28 @@
+{
+  "name": "HankandLucy",
+  "modPrefix": "saxby",
+  "displayedName": "Hank and Lucy",
+  "description": "Ah Those kitty's, they're too cute. I don't really have anything else to say about that.",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Cats_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "specialAbilities": [
+    "Ouroboros",
+    "Cat"
+  ],
+  "abilities": [
+    "DrawCopyOnDeath",
+    "Sacrificial"
+  ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Cats.png",
+  "emissionTexture": "Cats_e.png"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "UnderTurd",
+  "modPrefix": "saxby",
+  "displayedName": "UnderTurd",
+  "description": "The stingy UnderTurd. Deeply cared about by other members of the family apparently. Interesting.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [
+    "Hooved",
+    "Insect"
+  ],
+  "abilities": [
+    "DebuffEnemy",
+    "MoveBeside"
+  ],
+  "texture": "Turd.png",
+  "emissionTexture": "Turd_e.png",
+      	"pixelTexture": "Turd_41x28.png"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Aspen",
+  "modPrefix": "saxby",
+  "displayedName": "Aspen",
+  "description": "The Spry Dog. He loves lying on the floor and is jumpy around new people",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Aspen_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [
+    "Canine"
+  ],
+  "abilities": [
+    "extraVoid.inscryption.voidSigils.Tribal Ally",
+    "extraVoid.inscryption.voidSigils.Tribal Tutor"
+  ],
+  "texture": "Aspen.png",
+  "emissionTexture": "Aspen_e.png"
+}

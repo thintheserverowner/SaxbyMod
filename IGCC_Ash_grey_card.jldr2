@@ -1,0 +1,22 @@
+{
+  "name": "saxby_Ash_grey",
+  "modPrefix": "saxby",
+  "displayedName": "Ash grey",
+  "description": "Seems this odd canine likes you, how lucky are you?",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [ "Canine" ],
+  "abilities": [ "GuardDog" ],
+  "texture": "Ash.png",
+    "emissionTexture": "ash_e.png",
+        	"pixelTexture": "Ash_41x28.png"
+}

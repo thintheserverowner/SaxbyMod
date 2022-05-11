@@ -1,0 +1,26 @@
+{
+  "name": "Cry",
+  "modPrefix": "saxby",
+  "displayedName": "Crying Emoji",
+  "description": "You discovered Part Of an emoji. Congratulations. ",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "abilities": [
+    "Evolve",
+        "extraVoid.inscryption.voidSigils.Boneless"
+  ],
+  "evolveIntoName": "saxby_laugh",
+  "evolveTurns": 1,
+  "texture": "Cry.png",
+  "emissionTexture": "Cry_e.png",
+  "pixelTexture": "Cry_41x28.png"
+}

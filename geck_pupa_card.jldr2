@@ -1,0 +1,24 @@
+{
+  "name": "saxby_Geck_Pupa",
+  "modPrefix": "saxby",
+  "displayedName": "Geck Pupa",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [
+    "Reptile"
+  ],
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "saxby_geck_man",
+  "evolveTurns": 1,
+  "texture": "Geck_Pupa.png",
+  "emissionTexture": "Geck_Pupa_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Geck_Pupa_41x28.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Clueless",
+  "modPrefix": "saxby",
+  "displayedName": "Clueless",
+  "description": "Clueless because they can't aim where supposed to.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Clueless_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bonesCost": 8,
+  "abilities": [
+    "extraVoid.inscryption.voidSigils.Random Strike",
+    "extraVoid.inscryption.voidSigils.Random Strafe"
+  ],
+  "texture": "Clueless.png",
+  "emissionTexture": "Clueless_e.png"
+}

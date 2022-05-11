@@ -1,0 +1,22 @@
+{
+  "name": "saxby_rex",
+  "modPrefix": "saxby",
+  "displayedName": "Rex",
+  "description": "Hmmmm",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "rex_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 3,
+  "tribes": [ "None" ],
+  "abilities": [ "DrawCopyOnDeath", "CorpseEater" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "rex.png",
+  "emissionTexture": "rex_e.png"
+}

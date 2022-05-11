@@ -1,0 +1,28 @@
+{
+  "name": "StoatedStoat",
+  "modPrefix": "saxby",
+  "displayedName": "Stoated Stoat",
+  "description": "The more intellegent Stoat. He is the creator of this mod apparently... and the key to pure, unfaltering power.",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "bonesCost": 3,
+  "abilities": [
+    "MadeOfStone",
+    "extraVoid.inscryption.voidSigils.Abundance",
+    "extraVoid.inscryption.voidSigils.Abundance",
+    "extraVoid.inscryption.voidSigils.Abundance",
+    "extraVoid.inscryption.voidSigils.Bone Shard"
+  ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Stoated.png",
+  "emissionTexture": "Stoated_e.png",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Stoated_41x28.png"
+}

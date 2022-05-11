@@ -1,0 +1,22 @@
+{
+  "name": "saxby_Ace_opposum",
+  "modPrefix": "saxby",
+  "displayedName": "Ace opossum",
+  "description": "probably 3 opossums in a trench coat",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bonesCost": 6,
+  "tribes": [ "None" ],
+  "abilities": [ "RandomConsumable" ],
+  "texture": "Ace.png",
+    "emissionTexture": "Ace_e.png",
+    	"pixelTexture": "Ace_41x28.png"
+}

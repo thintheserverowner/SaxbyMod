@@ -1,0 +1,22 @@
+{
+  "name": "saxby_Zombified_doll",
+  "modPrefix": "saxby",
+  "displayedName": "Zombified doll",
+  "description": "I'm not sure if she was a doll first, or a zombie",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "doll_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bonesCost": 4,
+  "tribes": [ "None" ],
+  "abilities": [ "DrawCopyOnDeath", "QuadrupleBones" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "doll.png",
+  "emissionTexture": "doll_e.png"
+}

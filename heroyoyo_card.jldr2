@@ -1,0 +1,28 @@
+{
+  "name": "HeroYoYo",
+  "modPrefix": "saxby",
+  "displayedName": "HeroYoYo",
+  "description": "The mischevious Hero. He teeters on the edge of death and servancy.",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+  "abilities": [
+    "org.memez4life.inscryption.customsigils.Superior Sacrifice",
+    "DrawCopyOnDeath",
+    "org.memez4life.inscryption.customsigils.Bone lord 6"
+  ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Hero.png",
+  "emissionTexture": "Hero_e.png",
+  "decals": [
+"Hero_decal.png"
+],
+    	"pixelTexture": "Hero_41x28.png"
+}

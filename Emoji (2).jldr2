@@ -1,0 +1,23 @@
+{
+  "name": "laugh",
+  "modPrefix": "saxby",
+  "displayedName": "Laughing Emoji",
+  "description": "You discovered Part of an emoji. Congratulations. ",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "abilities": [
+    "Evolve",
+    "extraVoid.inscryption.voidSigils.Boneless"
+  ],
+  "evolveIntoName": "saxby_Cry",
+  "evolveTurns": 1,
+  "texture": "Emoji.png",
+  "emissionTexture": "Emoji_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Emoji_41x28.png"
+}

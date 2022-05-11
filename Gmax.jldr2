@@ -1,0 +1,19 @@
+{
+  "name": "GMaxSharb",
+  "modPrefix": "saxby",
+  "displayedName": "G Max Sharb",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 4,
+  "energyCost": 6,
+  "abilities": [
+    "Reach"
+  ],
+  "texture": "Gmax.png",
+  "emissionTexture": "Gmax_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Gmax_41x28.png"
+}

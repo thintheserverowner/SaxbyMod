@@ -1,0 +1,27 @@
+{
+  "name": "Jewelstine",
+  "modPrefix": "saxby",
+  "displayedName": "Jewelstine",
+  "description": "The galling goose. Its irritating cries empower it's opponents..",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Jewel_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [
+    "Bird"
+  ],
+  "abilities": [
+    "BuffEnemy",
+    "Flying"
+  ],
+  "texture": "Jewel.png",
+  "emissionTexture": "Jewel_e.png"
+}

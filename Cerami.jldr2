@@ -1,0 +1,25 @@
+{
+  "name": "Cerami",
+  "modPrefix": "saxby",
+  "displayedName": "Cerami",
+  "description": "A doll... yet, from the cracks of her mask...is there something different?",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Cerami_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "abilities": [
+    "IceCube"
+  ],
+  "iceCubeName": "saxby_Unmasked",
+  "texture": "Cerami.png",
+  "emissionTexture": "Cerami_e.png"
+}

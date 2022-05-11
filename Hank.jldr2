@@ -1,0 +1,29 @@
+{
+  "name": "saxby_Hank",
+  "modPrefix": "saxby",
+  "displayedName": "Hank",
+  "description": "One of the Saxby cats. He swaps out with Lucy sometimes.",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Hank_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "specialAbilities": [
+    "Cat"
+  ],
+  "abilities": [
+    "Sacrificial",
+    "Evolve"
+  ],
+  "evolveIntoName": "saxby_lucy",
+  "evolveTurns": 1,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Hank.png",
+  "emissionTexture": "Hank_e.png"
+}

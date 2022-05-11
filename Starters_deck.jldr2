@@ -1,0 +1,19 @@
+{
+    "decks": [
+        {
+        "name": "The_trio",
+        "iconTexture": "Artist.png",
+        "cards": [ "saxby_Kitxipixi", "saxby_Niki_The_sylph", "saxby_HeroYoYo" ]
+        },
+        {
+        "name": "Prominent_Lurker_Deck",
+        "iconTexture": "Artist.png",
+        "cards": [ "saxby_UnderTurd", "saxby_Lebirb", "saxby_Ash_grey" ]
+        },
+        {
+        "name": "Goofy_Ass_deck",
+        "iconTexture": "Goof.png",
+        "cards": [ "saxby_Ligma", "saxby_Cry", "saxby_Attack_Helicopter" ]
+        }
+    ]
+}

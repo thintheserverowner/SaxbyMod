@@ -1,0 +1,20 @@
+{
+  "name": "saxby_geck_man",
+  "modPrefix": "saxby",
+  "displayedName": "Geckman",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 6,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "abilities": [
+    "Flying"
+  ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Geck_Man.png",
+  "emissionTexture": "Geck_Man_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Geck_Man_41x28.png"
+}

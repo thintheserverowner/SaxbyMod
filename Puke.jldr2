@@ -1,0 +1,23 @@
+{
+  "name": "PukeSharter",
+  "modPrefix": "saxby",
+  "displayedName": "Puke Sharter",
+  "description": "The infamous puke sharter he loves to puke on kevins streams on a daily basis",
+  "metaCategories": [
+    "Rare",
+    "GBCPack",
+    "GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "abilities": [
+    "extraVoid.inscryption.voidSigils.Caustic"
+  ],
+  "defaultEvolutionName": "I Have Become",
+  "texture": "Puke.png",
+  "emissionTexture": "Puke_e.png",
+  "pixelTexture": "Puke_p.png"
+}

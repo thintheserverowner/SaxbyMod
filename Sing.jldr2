@@ -1,0 +1,30 @@
+{
+  "name": "Singularity",
+  "modPrefix": "saxby",
+  "displayedName": "Singularity",
+  "description": "The indescribable Singularity. Infinitely dense, Infinitely powerful.",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 4,
+  "bloodCost": 6,
+  "tribes": [
+    "Squirrel",
+    "Bird",
+    "Canine",
+    "Hooved",
+    "Reptile",
+    "Insect"
+  ],
+  "abilities": [
+    "TriStrike",
+    "extraVoid.inscryption.voidSigils.Pierce",
+    "extraVoid.inscryption.voidSigils.Haste"
+  ],
+  "texture": "Sing.png",
+  "emissionTexture": "Sing_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Sing_41x28.png"
+}

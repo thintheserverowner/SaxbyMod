@@ -1,0 +1,23 @@
+{
+	"name": "saxby_Attack_Helicopter",
+	"modPrefix": "saxby",
+	"displayedName": "Attack Helicopter",
+	"energyCost": 6,
+	"baseAttack": 3,
+	"baseHealth": 1,
+	"abilities": ["TriStrike"],
+	"metaCategories": [
+		"Rare",
+		"GBCPack",
+		"GBCPlayable"
+	],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "This is an entire attack helicopter. Are you messing with my deck again Kaycee?",
+	"appearanceBehaviour": [ "RareCardBackground" ],
+	"texture": "Attack_Helicopter.png",
+	"emissionTexture": "Attack_Helicopter_emision.png",
+	"tribes": ["Bird"],
+	"traits": ["Terrain"],
+	"pixelTexture": "Attack_Helicopter_41x28.png"
+}

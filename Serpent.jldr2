@@ -1,0 +1,26 @@
+{
+   "name":"Serpent",
+   "modPrefix":"saxby",
+   "displayedName":"Serpent",
+   "description":"The mighty serpant. It has gleefully abducted a card of yours.",
+   "metaCategories": [
+     "ChoiceNode",
+     "TraderOffer",
+     "GBCPack",
+     "GBCPlayable"
+   ],
+   "extensionProperties":{
+      "LifeMoneyCost":"4"
+   },
+   "cardComplexity":"Vanilla",
+   "temple":"Nature",
+   "baseAttack":2,
+   "baseHealth":3,
+   "abilities":[
+      "org.memez4life.inscryption.customsigils.Launcher"
+   ],
+   "iceCubeName":"saxby_Hero",
+   "texture":"Serpent.png",
+   "emissionTexture":"Serpent_e.png",
+   	"pixelTexture": "Serpent_41x28.png"
+}

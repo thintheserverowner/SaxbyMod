@@ -1,0 +1,25 @@
+{
+  "name": "saxby_geck_larva",
+  "modPrefix": "saxby",
+  "displayedName": "Geck Larva",
+  "description": "The weak geck. this poor creature doesn't seem like it's actually a geck.",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Geck_Larva_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Evolve" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "evolveIntoName": "saxby_Geck_Pupa",
+  "evolveTurns": 1,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Geck_Larva.png",
+	"emissionTexture": "Geck_Larva_e.png"
+}

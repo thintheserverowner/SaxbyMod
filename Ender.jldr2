@@ -1,0 +1,26 @@
+{
+  "name": "Ender",
+  "modPrefix": "saxby",
+  "displayedName": "Ender",
+  "description": "This one... She may appear strange, but certainly possesses an aptitude for starting conflicts.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Ender_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "bonesCost": 3,
+  "abilities": [
+    "Sharp",
+    "BuffEnemy",
+    "Tutor"
+  ],
+  "texture": "Ender.png",
+  "emissionTexture": "Ender_e.png"
+}

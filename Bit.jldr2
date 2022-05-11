@@ -1,0 +1,25 @@
+{
+  "name": "BittyGolem",
+  "modPrefix": "saxby",
+  "displayedName": "Bitty Golem",
+  "description": "He rudely modifies my game all the time...",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Bit_41x28.png",
+  "baseAttack": 0,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "MadeOfStone",
+    "WhackAMole"
+  ],
+  "texture": "Bit.png",
+  "emissionTexture": "Bit_e.png"
+}

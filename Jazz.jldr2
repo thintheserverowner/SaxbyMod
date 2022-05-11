@@ -1,0 +1,27 @@
+{
+  "name": "Jazzy",
+  "modPrefix": "saxby",
+  "displayedName": "Jazzy",
+  "description": "The sweet Jazzy. A little angel that everyone on the seems to love. Honestly who wouldn't love a face like that!",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Jazz_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bonesCost": 4,
+  "tribes": [
+    "Canine"
+  ],
+  "abilities": [
+    "GuardDog",
+    "MoveBeside"
+  ],
+  "texture": "Jazz.png",
+  "emissionTexture": "Jazz_e.png"
+}

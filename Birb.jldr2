@@ -1,0 +1,27 @@
+{
+  "name": "Lebirb",
+  "modPrefix": "saxby",
+  "displayedName": "Lebirb",
+  "description": "Wait a minute, i didnt even take a picture of this one.. How did they GET here?",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "tribes": [
+    "Bird"
+  ],
+  "abilities": [
+    "Flying",
+    "StrafeSwap"
+  ],
+  "texture": "Lebirb.png",
+  "emissionTexture": "Lebirb_e.png",
+      	"pixelTexture": "Lebirb_41x28.png"
+}

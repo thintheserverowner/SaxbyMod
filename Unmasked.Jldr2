@@ -1,0 +1,21 @@
+{
+  "name": "Unmasked",
+  "modPrefix": "saxby",
+  "displayedName": "Unmasked",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "Canine"
+  ],
+  "abilities": [
+    "Sacrificial",
+    "BuffNeighbours"
+  ],
+  "texture": "Mask.png",
+  "emissionTexture": "Mask_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Mask_41x28.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Arcane",
+  "modPrefix": "saxby",
+  "displayedName": "Arcane",
+  "description": "The formiddable Arcane. A powerful mage which controlls all the mysterious forces of the dark! She shall serve you well.",
+  "metaCategories": [
+  	"ChoiceNode",
+  	"TraderOffer",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Arcane_41x28.png",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "abilities": [
+    "BuffNeighbours",
+    "extraVoid.inscryption.LifeCost.Vamperic Strength"
+  ],
+  "texture": "Arcane.png",
+  "emissionTexture": "Arcane_e.png",
+  "extensionProperties": { "LifeMoneyCost": "3" }
+}

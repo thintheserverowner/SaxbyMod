@@ -1,0 +1,19 @@
+{
+  "name": "saxby_soul",
+  "modPrefix": "saxby",
+  "displayedName": "soul",
+  "description": " ",
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "tribes": [ "None" ],
+  "abilities": [ "DrawCopyOnDeath" ],
+  "texture": "Soul.png",
+  "emissionTexture": "Soul_e.png",
+  "metaCategories": [
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Soul_41x28.png"
+}

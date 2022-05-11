@@ -1,0 +1,24 @@
+{
+  "name": "Daniel",
+  "modPrefix": "saxby",
+  "displayedName": "Daniel Mullins",
+  "description": "The all-mighty Daniel Mullins. The developer himself has a cameo, who is surprised?",
+  "metaCategories": [
+  	"Rare",
+  	"GBCPack",
+  	"GBCPlayable"
+  ],
+     	"pixelTexture": "Daniel_41x28.png",
+  "baseAttack": 3,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "traits": [
+    "DeathcardCreationNonOption"
+  ],
+  "abilities": [
+    "extraVoid.inscryption.voidSigils.Vicious"
+  ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Daniel.png",
+  "emissionTexture": "Daniel_e.png"
+}
